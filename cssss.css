@@ -1,0 +1,47 @@
+@charset "utf-8";
+	.NormalCharacterStyle
+{
+	font-family : Source Sans Variable;
+	font-size : 9px;
+	color : #1D1D1B;
+	color : rgb(29, 29, 27);
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 29px;
+	color : #F9B233;
+	color : rgb(249, 178, 51);
+}
+.st0
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #1D1D1B;
+	border-color : rgba(29, 29, 27, 1);
+	border-width : 1px;
+}
+.st1
+{
+	border-style : Solid;
+	border-color : #F9B233;
+	border-color : rgba(249, 178, 51, 1);
+	border-width : 1px;
+}
+.st2
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #1D1D1B;
+	border-color : rgba(29, 29, 27, 1);
+	border-width : 1px;
+}
+.st3
+{
+	border-style : Solid;
+	border-color : #1D1D1B;
+	border-color : rgba(29, 29, 27, 1);
+	border-width : 1px;
+}
